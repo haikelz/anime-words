@@ -18,8 +18,6 @@ const Home = () => {
             fontSize={"4xl"}
             mb={8}
             fontWeight={"bold"}
-            bgGradient='linear(to-l, #00B4DB, #0083B0)'
-            bgClip='text'
           >
             Anime Words
           </Text>
